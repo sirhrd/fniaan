@@ -10,5 +10,4 @@ requests Pillow beautifulsoup4 whois qrcode cryptography
 
 أمر تثبيت الاداة:
 
-git clone https://github.com/sirhrd/fniaan.g
-it
+git clone https://github.com/sirhrd/fniaan.git
